@@ -13,11 +13,6 @@ It is made with <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 
 📫 How to reach me **jairosanchezb5@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jairo-sanchez-malaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jairo-s%c3%a1nchez-64416a12b/" height="30" width="40" /></a>
-</p>
-
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
