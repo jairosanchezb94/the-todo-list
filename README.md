@@ -1,6 +1,23 @@
-# the-todo-test
+# The Todo Test
 
+Project example image
+![Screenshot 2022-04-11 085651](https://user-images.githubusercontent.com/32551746/162681962-5b071929-03cc-4e42-975d-1f176c0cf1b7.png)
 
+It is made with React
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+
+<h1 align="center">Contacto</h1> 
+
+👨‍💻 Portafolio https://jairosanchezb94.github.io/portafolio-js/
+
+📝 Linkedin [https://www.linkedin.com/in/jairo-sanchez-64416a12b/](https://www.linkedin.com/in/jairo-sanchez-64416a12b/)
+
+📫 How to reach me **jairosanchezb5@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jairo-sanchez-malaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jairo-s%c3%a1nchez-64416a12b/" height="30" width="40" /></a>
+</p>
 
 ## Getting started
 
